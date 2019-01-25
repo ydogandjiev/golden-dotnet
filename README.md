@@ -10,8 +10,14 @@ cd golden
 dotnet restore
 ```
 
+## Running the app
+
+```bash
+dotnet run -p app/app.csproj
+```
+
 ## Running the unit tests
 
 ```bash
-dotnet test
+dotnet test test-library/test-library.csproj
 ```
