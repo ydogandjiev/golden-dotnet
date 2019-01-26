@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app", "app\app.csproj", "{3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webApp", "webApp\webApp.csproj", "{FBEF4657-BDC2-4604-8C18-1AD9A78F13F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reactApp", "reactApp\reactApp.csproj", "{BF399245-68DF-40CE-B6B7-B0F724B48709}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,17 @@ Global
 		{FBEF4657-BDC2-4604-8C18-1AD9A78F13F3}.Release|x64.Build.0 = Release|Any CPU
 		{FBEF4657-BDC2-4604-8C18-1AD9A78F13F3}.Release|x86.ActiveCfg = Release|Any CPU
 		{FBEF4657-BDC2-4604-8C18-1AD9A78F13F3}.Release|x86.Build.0 = Release|Any CPU
+		{BF399245-68DF-40CE-B6B7-B0F724B48709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF399245-68DF-40CE-B6B7-B0F724B48709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF399245-68DF-40CE-B6B7-B0F724B48709}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BF399245-68DF-40CE-B6B7-B0F724B48709}.Debug|x64.Build.0 = Debug|Any CPU
+		{BF399245-68DF-40CE-B6B7-B0F724B48709}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BF399245-68DF-40CE-B6B7-B0F724B48709}.Debug|x86.Build.0 = Debug|Any CPU
+		{BF399245-68DF-40CE-B6B7-B0F724B48709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF399245-68DF-40CE-B6B7-B0F724B48709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF399245-68DF-40CE-B6B7-B0F724B48709}.Release|x64.ActiveCfg = Release|Any CPU
+		{BF399245-68DF-40CE-B6B7-B0F724B48709}.Release|x64.Build.0 = Release|Any CPU
+		{BF399245-68DF-40CE-B6B7-B0F724B48709}.Release|x86.ActiveCfg = Release|Any CPU
+		{BF399245-68DF-40CE-B6B7-B0F724B48709}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
